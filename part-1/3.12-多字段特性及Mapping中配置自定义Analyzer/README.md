@@ -88,9 +88,8 @@ GET _analyze
     "text" : "http://www.elastic.co"
 }
 
-
-
-
 ```
 
 ## 相关阅读
+
+- Character Filter -> Tokenizer -> Token Filter
